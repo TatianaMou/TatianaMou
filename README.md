@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 #### 💻 Tools
-Language: Python, SQL, R
-Database: Google BigQuery, PostGresSQL, Microsoft SQL Server, MySQL
-Visualization: Power BI, Tableau, Looker Studio,
+Language: Python, SQL, R   
+Database: Google BigQuery, PostGresSQL, Microsoft SQL Server, MySQL   
+Visualization: Power BI, Tableau, Looker Studio   
 
 <!--
 **TatianaMou/TatianaMou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
